@@ -1,6 +1,6 @@
 # ESP8266 Wi-Fi Car Remote Control
 
-Bu loyiha ESP8266 mikrocontrolleri asosida ishlaydigan Wi-Fi orqali boshqariladigan avtomobil loyihasidir. Qurilma Wi-Fi tarmog‘iga ulanib, mobil brauzer yoki bot orqali boshqariladi.
+Bu loyiha ESP8266 mikrocontrolleri asosida ishlaydigan Wi-Fi orqali boshqariladigan avtomobil loyihasidir. Qurilma Wi-Fi tarmog‘iga ulanib, mobil ilova:(ESP8266 wifi robot car) brauzer yoki bot orqali boshqariladi.
 
 ## Xususiyatlari
 - Wi-Fi orqali boshqarish
